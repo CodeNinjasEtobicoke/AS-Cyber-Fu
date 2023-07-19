@@ -1346,8 +1346,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6ee4c45ac75bc9f4796ec50da56aea39, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 2
-  attackDistance: 1
+  speed: 1
+  attackDistance: 0.7
   direction: {x: 0, y: 0, z: 0}
   isFollowingTarget: 0
   isAttackingTarget: 0
